@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CBSite/static/css/main.d804711c.css",
+    "main.js": "/CBSite/static/js/main.b3dca94b.js",
+    "index.html": "/CBSite/index.html",
+    "main.d804711c.css.map": "/CBSite/static/css/main.d804711c.css.map",
+    "main.b3dca94b.js.map": "/CBSite/static/js/main.b3dca94b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d804711c.css",
+    "static/js/main.b3dca94b.js"
+  ]
+}
