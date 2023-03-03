@@ -47,7 +47,7 @@ const Landing = ({ setSelectedPage }) => {
             visible: { opacity: 1, x: 0 },
           }}
         >
-          <h1 className="text-6xl font-Inter font-extrabold z-10 text-center md:text-start">COMMERCIAL BROKERAGE LLC </h1>
+          <h1 className="text-5xl font-Inter font-extrabold z-10 text-center md:text-start">COMMERCIAL BROKERAGE LLC </h1>
 
           <h1 className="text-4xl font-Roboto z-10 text-center md:text-start mt-4 ">
               <span>
