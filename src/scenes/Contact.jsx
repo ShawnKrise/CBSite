@@ -59,13 +59,13 @@ const Contact = () => {
               
             >
               <img
-                alt="contact"
+                alt=""
                 className="z-10"
                 src="assets/contact-image.png"
               />
             </div>
 
-          <img src="../assets/contact-image.png" alt="contact" />
+          <img src="assets/contact-image.png" alt="" />
         </motion.div>
 
         <motion.div
